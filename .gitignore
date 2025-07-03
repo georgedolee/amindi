@@ -1,0 +1,42 @@
+# Binaries for programs and plugins
+/bin/
+/build/
+/out/
+
+# Build output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, coverage reports
+*.test
+*.coverprofile
+
+# Go modules
+vendor/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files with secrets (if any)
+/.env
+.env.*
+
+# Logs
+*.log
+
+# Go workspace file
+go.work
+
+# Generated protobuf files or other generated code (optional, if any)
+/generated/
+
