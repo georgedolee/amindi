@@ -1,4 +1,4 @@
-# amindi ⛅
+# Amindi ⛅
 
 > Command-line weather forecast tool with clean output formatting
 
